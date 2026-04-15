@@ -148,13 +148,11 @@ drwxr-xr-x  [BOLTX]   SecureFileTransferSystem
 <!-- CERTIFICATIONS -->
 ##  certs --list
 
-<div align="center">
-
-![](https://img.shields.io/badge/RHCSA-Red%20Hat%20Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![](https://img.shields.io/badge/eJPT-eLearnSecurity-1A1A2E?style=for-the-badge&logo=securityscorecard&logoColor=F5A623)
-![](https://img.shields.io/badge/CPTS-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-
-</div>
+<p align="center">
+  <a href="https://www.credly.com/badges/00678861-56a0-4b16-992a-89113868ab37/public_url"><img src="https://img.shields.io/badge/RHCSA-Red%20Hat%20Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white" /></a>
+  <a href="https://certs.ine.com/812edb5a-f31f-41cf-aedb-9de5ba6aaddb#acc.elCw7Yjy"><img src="https://img.shields.io/badge/eJPT-eLearnSecurity-1A1A2E?style=for-the-badge&logo=securityscorecard&logoColor=F5A623" /></a>
+  <a href="https://www.credly.com/badges/3e154999-a98b-47c7-a488-7354160988f3/public_url"><img src="https://img.shields.io/badge/CPTS-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+</p>
 
 ---
 
