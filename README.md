@@ -1,4 +1,4 @@
-# boltx
+# Boltx
 
 <h1 align="center">Boltx (Dheeraj) </h1>
 <h3 align="center">Cyber Security Researcher | Pentester | Threat Hunter| SOC Analyst | Red &amp; Blue Team | CTF Player </h3>
