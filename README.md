@@ -10,7 +10,8 @@
 ╚═════╝  ╚═════╝ ╚══════╝╚═╝   ╚═╝  ╚═╝
 ```
 
-**`Cyber Security Analyst  |  Builder | Threat Hunter |  Boltx`**
+
+**`SOC Analyst  ·  Penetration Tester  ·  Security Tool Builder`**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=14&duration=3000&pause=1000&color=F5A623&background=0D0D0D&center=true&vCenter=true&width=620&lines=MSc+Information+Security;Threat+Hunting+Malware+Analysis+%7C+Web+App+Testing+%7C+Active+Directory;CTF+Player+%7C+SOC+Analyst+in+Training;Aspiring+Soc+Analyst" alt="Typing SVG" />
 
